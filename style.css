@@ -8,17 +8,17 @@ body {
   font-weight: lighter;
 }
 
-.Titulo {
+.titulo {
 
   background-color: chocolate;
 }
 
-.Lista {
+.lista {
   color: blueviolet;
   font-size: x-large;
 }
 
-.Enlace {
+.enlace {
   font-size: xx-large;
   font-family: Arial, Helvetica, sans-serif;
 }
